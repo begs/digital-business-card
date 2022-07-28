@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/digital-business-card/static/css/main.bada1113.css",
+    "main.js": "/digital-business-card/static/js/main.1ec87558.js",
+    "static/media/vegard.jpeg": "/digital-business-card/static/media/vegard.a9f808bc51e340d7bbf4.jpeg",
+    "index.html": "/digital-business-card/index.html",
+    "main.bada1113.css.map": "/digital-business-card/static/css/main.bada1113.css.map",
+    "main.1ec87558.js.map": "/digital-business-card/static/js/main.1ec87558.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bada1113.css",
+    "static/js/main.1ec87558.js"
+  ]
+}
